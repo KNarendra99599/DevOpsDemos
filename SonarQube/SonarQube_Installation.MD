@@ -5,7 +5,10 @@ SonarQube provides the capability to not only show health of an application but 
 
 ### Prerequisites
 1. EC2 instance with Java installed
-1. MySQL Database Server or MyQL RDS instance. **[Get help here](https://www.youtube.com/watch?v=vLaW6b441x0)**
+
+yum install java-1.8.0-openjdk -y
+
+3. MySQL Database Server or MyQL RDS instance. **[Get help here](https://www.youtube.com/watch?v=vLaW6b441x0)**
 
 ### Installation
 
